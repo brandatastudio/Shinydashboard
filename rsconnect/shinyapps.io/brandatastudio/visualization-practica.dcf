@@ -1,0 +1,13 @@
+name: visualization-practica
+title: visualization-practica
+username:
+account: brandatastudio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 761219
+bundleId: 1914842
+url: https://brandatastudio.shinyapps.io/visualization-practica/
+when: 1551722551.37349
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: barchart.R
